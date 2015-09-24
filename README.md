@@ -1,4 +1,4 @@
-# Globant - 2nd BOOTCAMP - MDQ
+# Globant - BOOTCAMP - BB
 
 ## Final Project: Twitter Based App
 
